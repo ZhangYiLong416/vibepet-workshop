@@ -1,0 +1,11 @@
+{
+  "title": "Prince Run - 功德模式",
+  "author": "admin",
+  "petId": "prince-run",
+  "actionType": "merit",
+  "framesCount": 4,
+  "frameDuration": 150,
+  "promptUsed": "敲木鱼",
+  "imageUrl": "https://fastly.jsdelivr.net/gh/ZhangYiLong416/vibepet-workshop@main/patches/prince-run/merit/admin_1779797004099.webp",
+  "createdTime": "2026-05-26T12:03:24.099Z"
+}
