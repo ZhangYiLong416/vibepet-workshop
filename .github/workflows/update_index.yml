@@ -68,3 +68,4 @@ jobs:
         git add patches/index.json
         git diff-index --quiet HEAD || git commit -m "chore: auto-update workshop index [skip ci]"
         git push
+        
