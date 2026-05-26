@@ -1,5 +1,29 @@
 [
   {
+    "title": "Prince Run - 功德模式",
+    "author": "admin",
+    "petId": "prince-run",
+    "actionType": "merit",
+    "framesCount": 4,
+    "frameDuration": 150,
+    "promptUsed": "敲木鱼",
+    "imageUrl": "https://fastly.jsdelivr.net/gh/ZhangYiLong416/vibepet-workshop@main/patches/prince-run/merit/admin_1779797004099.webp",
+    "createdTime": "2026-05-26T12:03:24.099Z",
+    "metaPath": "patches/prince-run/merit/admin_1779797004099.json"
+  },
+  {
+    "title": "486 - 专注模式",
+    "author": "admin",
+    "petId": "486",
+    "actionType": "focus",
+    "framesCount": 4,
+    "frameDuration": 300,
+    "promptUsed": "",
+    "imageUrl": "https://fastly.jsdelivr.net/gh/ZhangYiLong416/vibepet-workshop@main/patches/486/focus/admin_1779794126397.webp",
+    "createdTime": "2026-05-26T11:15:26.398Z",
+    "metaPath": "patches/486/focus/admin_1779794126397.json"
+  },
+  {
     "title": "Doro - 音乐律动",
     "author": "admin",
     "petId": "doro",
@@ -46,18 +70,6 @@
     "imageUrl": "https://fastly.jsdelivr.net/gh/ZhangYiLong416/vibepet-workshop@main/patches/miaodex/music/admin_1779769296115.webp",
     "createdTime": "2026-05-26T04:21:36.115Z",
     "metaPath": "patches/miaodex/music/admin_1779769296115.json"
-  },
-  {
-    "title": "MiaoDex - 音乐律动",
-    "author": "admin",
-    "petId": "miaodex",
-    "actionType": "music",
-    "framesCount": 8,
-    "frameDuration": 140,
-    "promptUsed": "",
-    "imageUrl": "https://fastly.jsdelivr.net/gh/ZhangYiLong416/vibepet-workshop@main/patches/miaodex/music/admin_1779769126910.webp",
-    "createdTime": "2026-05-26T04:18:46.910Z",
-    "metaPath": "patches/miaodex/music/admin_1779769126910.json"
   },
   {
     "title": "Kimlet Hover Clap - 专注模式",
