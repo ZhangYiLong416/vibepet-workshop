@@ -7,6 +7,18 @@
     "framesCount": 8,
     "frameDuration": 140,
     "promptUsed": "",
+    "imageUrl": "https://fastly.jsdelivr.net/gh/ZhangYiLong416/vibepet-workshop@main/patches/miaodex/music/admin_1779769296115.webp",
+    "createdTime": "2026-05-26T04:21:36.115Z",
+    "metaPath": "patches/miaodex/music/admin_1779769296115.json"
+  },
+  {
+    "title": "MiaoDex - 音乐律动",
+    "author": "admin",
+    "petId": "miaodex",
+    "actionType": "music",
+    "framesCount": 8,
+    "frameDuration": 140,
+    "promptUsed": "",
     "imageUrl": "https://fastly.jsdelivr.net/gh/ZhangYiLong416/vibepet-workshop@main/patches/miaodex/music/admin_1779769126910.webp",
     "createdTime": "2026-05-26T04:18:46.910Z",
     "metaPath": "patches/miaodex/music/admin_1779769126910.json"
