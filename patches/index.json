@@ -1,5 +1,17 @@
 [
   {
+    "title": "kun - 音乐律动",
+    "author": "admin",
+    "petId": "kun",
+    "actionType": "music",
+    "framesCount": 8,
+    "frameDuration": 140,
+    "promptUsed": "爱好：打篮球",
+    "imageUrl": "https://fastly.jsdelivr.net/gh/ZhangYiLong416/vibepet-workshop@main/patches/kun/music/admin_1779974185279.webp",
+    "createdTime": "2026-05-28T13:16:25.279Z",
+    "metaPath": "patches/kun/music/admin_1779974185279.json"
+  },
+  {
     "title": "KunKun Pixel - 音乐律动",
     "author": "神秘宠物训练师",
     "petId": "kunkun-pixel",
